@@ -649,11 +649,11 @@ let teksmenu = `
 ┃ 𝐕𝐏𝐒 𝐔𝐩𝐭𝐢𝐦𝐞 : *${runtime(os.uptime())}*
 ╰─────┈➤
 ╭─────────────────────➤
-│╭─▣「 *𝙲нαииє𝚕 𝙼єи𝚞* 」▣─╮
+│╭─▣「 *𝐂𝐡𝐚𝐧𝐧𝐞𝐥 𝐅𝐞𝐚𝐭𝐮𝐫𝐞 」▣─╮
 ││ ⟿ .cekidch
 │╰─➤
 │
-│╭─▣「 *𝙶яσυ𝚙 𝙼єи𝚞* 」▣─╮
+│╭─▣「 *𝐆𝐫𝐨𝐮𝐩 𝐅𝐞𝐚𝐭𝐮𝐫𝐞* 」▣─╮
 ││ ⟿ .delete
 ││ ⟿ .leavegc
 ││ ⟿ .leavegc2
@@ -665,7 +665,7 @@ let teksmenu = `
 ││ ⟿ .upswgc
 │╰─➤
 │
-│╭─▣「 *𝙱яσα𝚍𝚌αѕ𝚝 𝙶яσυ𝚙* 」▣─╮
+│╭─▣「 *𝐁𝐫𝐨𝐚𝐝𝐜𝐚𝐬𝐭 𝐆𝐫𝐨𝐮𝐩* 」▣─╮
 ││ ⟿ .autojpm
 ││ ⟿ .bcgc
 ││ ⟿ .bljpm
@@ -676,7 +676,7 @@ let teksmenu = `
 ││ ⟿ .listgc
 │╰─➤
 │
-│╭─▣「 *𝙱яσα𝚍𝚌αѕ𝚝 𝙺σηтα𝚔* 」▣─╮
+│╭─▣「 *𝐁𝐫𝐨𝐚𝐝𝐜𝐚𝐬𝐭 𝐊𝐨𝐧𝐭𝐚𝐤* 」▣─╮
 ││ ⟿ .pushkontak
 ││ ⟿ .pushkontak2
 ││ ⟿ .pushkontak3
@@ -686,7 +686,7 @@ let teksmenu = `
 ││ ⟿ .tutor
 │╰─➤
 │
-│╭─▣「 *𝚁αи𝚍σ𝚖 𝙼єи𝚞* 」▣─╮
+│╭─▣「 *𝐅𝐮𝐧 𝐅𝐞𝐚𝐭𝐮𝐫𝐞* 」▣─╮
 ││ ⟿ .bluearchive
 ││ ⟿ .cosplayba
 ││ ⟿ .cekkhodam
@@ -698,7 +698,7 @@ let teksmenu = `
 ││ ⟿ .waifu
 │╰─➤
 │
-│╭─▣「 *𝙳σωи𝚕σα𝚍є𝚛 𝙼єи𝚞* 」▣─╮
+│╭─▣「 *𝐃𝐨𝐰𝐧𝐥𝐨𝐚𝐝 𝐅𝐞𝐚𝐭𝐮𝐫𝐞* 」▣─╮
 ││ ⟿ .play
 ││ ⟿ .capcut
 ││ ⟿ .igdl
@@ -708,7 +708,7 @@ let teksmenu = `
 ││ ⟿ .twitter
 │╰─➤
 │
-│╭─▣「 *𝙲ση𝚝𝚛𝚘𝚕 𝙼𝚎𝚗𝚞* 」▣─╮
+│╭─▣「 *𝐂𝐨𝐧𝐭𝐫𝐨𝐥 𝐅𝐞𝐚𝐭𝐮𝐫𝐞* 」▣─╮
 ││ ⟿ .addcase
 ││ ⟿ .addplugin
 ││ ⟿ .ambilq
@@ -727,14 +727,14 @@ let teksmenu = `
 ││ ⟿ .setting
 │╰─➤
 │
-│╭─▣「 *𝙲σηνєятє𝚛 𝙼єи𝚞* 」▣─╮
+│╭─▣「 *𝐂𝐨𝐧𝐯𝐞𝐫𝐭 𝐅𝐞𝐚𝐭𝐮𝐫𝐞* 」▣─╮
 ││ ⟿ .toaudio
 ││ ⟿ .toimg
 ││ ⟿ .tovid
 ││ ⟿ .tourl
 │╰─➤
 │
-│╭─▣「 *𝚂𝚝𝚒𝚔𝚎𝚛 𝙼𝚎𝚗𝚞* 」▣─╮
+│╭─▣「 *𝐒𝐭𝐢𝐤𝐞𝐫 𝐅𝐞𝐚𝐭𝐮𝐫𝐞* 」▣─╮
 ││ ⟿ .brat
 ││ ⟿ .bratvid
 ││ ⟿ .sticker
@@ -743,14 +743,14 @@ let teksmenu = `
 ││ ⟿ .qc
 │╰─➤
 │
-│╭─▣「 *𝙿𝚊𝚢 𝙼𝚎𝚗𝚞* 」▣─╮
+│╭─▣「 *𝐏𝐚𝐲 𝐅𝐞𝐚𝐭𝐮𝐫𝐞* 」▣─╮
 ││ ⟿ .dana
 ││ ⟿ .gopay
 ││ ⟿ .ovo
 ││ ⟿ .qris
 │╰─➤
 │
-│╭==⊱ *Official Source* ▣─╮
+│╭==⊱ *𝐎𝐟𝐟𝐢𝐜𝐢𝐚𝐥 𝐒𝐨𝐮𝐫𝐜𝐞 𝐂𝐨𝐝𝐞* ▣─╮
 ││↻ Saluran: https://whatsapp.com/channel/0029Vb7XYjLKgsNyWrRHL10k
 ││↻ Website: ${global.web}
 │╰───➤
